@@ -1,12 +1,8 @@
-<<<<<<< HEAD
-Hola esto lo ha escrito ANTONIO LOZANO
-=======
 
 
 
 Hola esto lo ha escrito FERNANDOGISBERT
 
->>>>>>> 2188e5a4c55fc8ad4f7832d2e7ea4290ef4f2a13
 Hola esto lo ha escrito Javier Moneo
 Hola esto lo ha escrito Belen
 Hola esto lo ha escrito Jose Dominguez
